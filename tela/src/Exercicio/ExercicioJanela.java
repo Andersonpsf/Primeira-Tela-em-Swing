@@ -118,7 +118,7 @@ public class ExercicioJanela {
                     CadastroPermitido=CadastroPermitido+1;
                     
                 }
-                 if (CadastroPermitido==4)  {
+                 if (CadastroPermitido==0)  {
                 	JOptionPane.showMessageDialog(janela, "Cadastro Concluído");
             }
             }
